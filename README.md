@@ -1,5 +1,4 @@
 ### Hi there, I'm Diego Rodas García 👋
-## SOFTWARE ENGINEER | Full Stack Developer | Team Leader
 
 🌟 **Experienced software engineer** with a passion for crafting scalable and efficient software architectures. Specialized in **microservices** and **cloud technologies**.
 
