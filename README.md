@@ -22,9 +22,3 @@ Let's build something amazing together! 💻🚀
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegoRodas20&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<!--
-
-
-Here are some ideas to get you started:
--->
